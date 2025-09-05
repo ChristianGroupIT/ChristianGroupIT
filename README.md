@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Christian Sangucho  
 
-![Banner – Christian Sangucho](./banner_christiansangucho.png)
+![Banner – Christian Sangucho](images/banner_christiansangucho.png)
 
 ## 🚀 Professional Profile  
 IT Engineer with more than 20 years of experience in **infrastructure, information security, DevOps, and digital transformation projects**.  
